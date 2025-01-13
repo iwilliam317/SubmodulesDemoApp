@@ -1,0 +1,3 @@
+[submodule "SimpleLibrary"]
+	path = SimpleLibrary
+	url = ./SimpleLibrary
